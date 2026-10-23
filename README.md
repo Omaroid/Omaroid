@@ -53,5 +53,5 @@ My approach: **understand the user → design the data/AI system → test realis
 
 **Based in France.** Interested in applied AI, data platform engineering, technical customer-facing and Forward Deployed Engineering opportunities.
 
-[Full portfolio](https://omaroid.github.io/) · [GitHub repositories](https://github.com/Omaroid?tab=repositories)
+[Full portfolio](https://omaroid.github.io/) · [LinkedIn](https://www.linkedin.com/in/omar-laraqui/) · [GitHub repositories](https://github.com/Omaroid?tab=repositories)
 
